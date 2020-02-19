@@ -1,0 +1,13 @@
+Class Links
+-----------
+IETF | Internet Engineering Task Force
+ietf.org
+https://tools.ietf.org/html/rfc3261
+
+IANA | Internet Assigned Numbers Authority
+https://www.iana.org/
+https://www.iana.org/assignments/sip-parameters/sip-parameters.xhtml
+
+ICANN
+https://www.icann.org/
+
