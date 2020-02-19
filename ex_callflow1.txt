@@ -1,0 +1,20 @@
+Alice (5555)                            Bob (1234)
+INVITE 1234@alta3.com  --->
+From: <Alice> 5555@tmob.com
+To: 1234@alta3.com
+
+                     <-- 180 / 200
+                         From: <Alice> 5555@tmob.com
+                         To: 1234@alta3.com
+
+ACK 1234@192.168.1.122  --->
+From: <Alice> 5555@tmob.com
+To: 1234@alta3.com
+
+                     <-- BYE 5555@10.10.9.2
+                         From: 1234@alta3.com
+                         To: <Alice> 5555@tmob.com
+                         
+200  --->
+From: 1234@alta3.com
+To: <Alice> 5555@tmob.com
