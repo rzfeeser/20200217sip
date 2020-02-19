@@ -1,0 +1,19 @@
+Phone                       Proxy (sm)
+ IP-dynamic                 IP-Static
+(arg)                       (arg)
+
+REGISTER alta3.com -------->
+contact: 1011@192.168.30.155
+from: 1011@alta3.com
+to: 1011@alta3.com
+
+<------------------------ 401
+www-authenticate: MD5, nonce, realm
+
+REGISTER alta3.com -------->
+contact: 1011@192.168.30.155
+from: 1011@alta3.com
+to: 1011@alta3.com
+Authorization: MD5, nonce, realm, username, response
+
+<----------------------- 200
